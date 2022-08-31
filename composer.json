@@ -1,0 +1,19 @@
+{
+    "name": "user/edu",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Bot\\": "App/"
+        }
+
+    },
+    "authors": [
+        {
+            "name": "Samandar",
+            "email": "azamov.samandar.programmer@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

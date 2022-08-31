@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca93c971-4134-4e15-b57a-3f2da34c6c2e" name="shohboz" url="http://157.90.213.150">
+        <fileTransfer host="157.90.213.150" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="19abd291-d2d3-465e-a4af-67e280ec974d" name="myxvest" url="http://157.90.213.150">
+        <fileTransfer host="157.90.213.150" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
